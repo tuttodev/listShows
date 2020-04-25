@@ -1,3 +1,6 @@
+![Aquí la descripción de la imagen por si no carga]
+(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+
 
 este proyecto basico consume una API en donde me muestra una lista de shows de television
 tambien puedes autenticarte en la aplicación
